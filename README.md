@@ -16,7 +16,9 @@ bibleCompanion will consist of a Notebook filled with Notes, which can be organi
 
 ### Notes
 
-A Note will consist of some content, and some criteria (Bible reference, theme, custom criteria, anything else that may be of use).
+A Note will consist of some content, and some tags (Bible reference, theme, custom criteria, anything else that may be of use), and an identifier.
+
+Tags should be able to be accessed easily, but should also be flexible (not all Notes require all tags to be filled). Perhaps a dictionary is best to implement this?
 
 ### Notebook
 
